@@ -31,3 +31,19 @@ A Python-based voice assistant that uses artificial intelligence to process user
    ```bash
    pip install speechrecognition openai
 **You would require your own OpenAI API key!!**
+### Contribution
+**Contributions are welcome! Follow these steps to contribute:**
+1. Fork this repository.
+2. Create a branch:
+    ```bash
+    git checkout -b feature-name
+   
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Added a new feature"
+
+4. Push your branch:
+   ```bash
+   git push origin feature-name
+
+5. Open a Pull Request.   
