@@ -30,3 +30,4 @@ A Python-based voice assistant that uses artificial intelligence to process user
 2. Install the required dependencies:
    ```bash
    pip install speechrecognition openai
+**You would require your own OpenAI API key!!**
